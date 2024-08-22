@@ -51,11 +51,11 @@ To get started with the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/project-crowdfunding.git```
+   git clone https://github.com/sagarhapp/project-crowdfunding.git
 
 2. Navigate to the client directory and install dependencies:
     ```cd client
-    yarn install```
+    yarn install
 
 
 ## Running the Frontend:
